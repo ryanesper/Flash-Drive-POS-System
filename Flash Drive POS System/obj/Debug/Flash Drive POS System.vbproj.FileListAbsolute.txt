@@ -1,0 +1,33 @@
+C:\Users\ryan\AppData\Local\Temporary Projects\Flash Drive POS System\bin\Debug\Flash Drive POS System.exe.config
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.exe.config
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.exe
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.pdb
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.xml
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\bin\Debug\MySql.Data.DLL
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbprojResolveAssemblyReference.cache
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmlogin.resources
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmmain.resources
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmregister.resources
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.Resources.resources
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbproj.GenerateResource.Cache
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.exe
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.xml
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.pdb
+D:\Programming\VB.NET\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmaddproduct.resources
+D:\Programming\VB.NET\Z\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.exe.config
+D:\Programming\VB.NET\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.exe
+D:\Programming\VB.NET\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.xml
+D:\Programming\VB.NET\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.pdb
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbprojAssemblyReference.cache
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmmain.resources
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmaddproduct.resources
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmlogin.resources
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.frmregister.resources
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash_Drive_POS_System.Resources.resources
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbproj.GenerateResource.cache
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbproj.CoreCompileInputs.cache
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.exe
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.xml
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.pdb
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\bin\Debug\Flash Drive POS System.exe.config
+D:\Programming\VB.NET\Systems\Z\Flash Drive POS System\Flash Drive POS System\obj\Debug\Flash Drive POS System.vbprojResolveAssemblyReference.cache
